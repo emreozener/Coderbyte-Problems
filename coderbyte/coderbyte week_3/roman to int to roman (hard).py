@@ -12,7 +12,7 @@ def RomanNumeralReduction(strParam):
     elif i == "M": num += 1000
  
   roman_num = str()
-#A letter can't occur more than 3 times in a roman number.
+#A letter can't occur more than 3 times in a row in a roman number.
 
   M = ["", "M", "MM", "MMM"] #thousands
   C = ["", "C", "CC", "CCC", "CD", "D", "DC", "DCC", "DCCC", "CM"] #hundreds
