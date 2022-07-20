@@ -1,2 +1,2 @@
 # Coderbyte-Problems
-Basic challenges on coderbyte.
+Bunch of basic python challenges on coderbyte.
